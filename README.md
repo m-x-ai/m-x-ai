@@ -86,7 +86,7 @@ An elegant landing experience with a privacy-conscious waitlist flow. Built with
 ## 🐍 Contribution garden
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/m-x-ai/m-x-ai/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
+  <img src="https://raw.githubusercontent.com/m-x-ai/m-x-ai/gh-pages/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
 </div>
 
 ## 🤝 Let’s connect
